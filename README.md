@@ -63,14 +63,17 @@ This capstone delivers a modular, LLM-powered system that generates structured b
 
 ---
 
-##  Repository Structure
+## 📁 Repository Structure
 
 | File | Description |
 |------|-------------|
-| `GenAi_Inc_Unit6_Capstone.ipynb` | LangChain-powered ad generator with evaluation logic |
-| `genai_inc_unit6_capstone02.ipynb` | Alternate version with model selection and prompt tuning |
+| [`GenAi_Inc_Unit6_Capstone01.ipynb`](https://github.com/cwattsnogueira/bikeease-ad-generator/blob/main/GenAi_Inc_Unit6_Capstone01.ipynb) | LangChain-powered ad generator with evaluation logic  
+<a href="https://colab.research.google.com/github/cwattsnogueira/bikeease-ad-generator/blob/main/GenAi_Inc_Unit6_Capstone01.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [`genai_inc_unit6_capstone02.ipynb`](https://github.com/cwattsnogueira/bikeease-ad-generator/blob/main/genai_inc_unit6_capstone02.ipynb) | Alternate version with model selection and prompt tuning  
+<a href="https://colab.research.google.com/github/cwattsnogueira/bikeease-ad-generator/blob/main/genai_inc_unit6_capstone02.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | `app.py` | Hugging Face Spaces deployment script using TinyLlama and Gradio |
 | `README.md` | Project documentation and context |
+| `LICENSE` | MIT License for open-source use |
 | `requirements.txt` | (Optional) Python dependencies for local setup |
 
 ---
