@@ -1,59 +1,27 @@
 #  BikeEase Ad Generator
 
-**Generative AI Capstone Project — Carllos Watts-Nogueira**  
-**University of San Diego / Fullstack Academy — August–September 2025**  
-**Live Demo:** [Hugging Face Spaces](https://bit.ly/4fZUkSj)
+[![Hugging Face Spaces](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/spaces/cwattsnogueira/bikeease-ad-generator)
+[![LangChain](https://img.shields.io/badge/LangChain-integrated-green?logo=python)](https://www.langchain.com/)
+[![Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface)](https://huggingface.co/models)
+[![Gradio](https://img.shields.io/badge/Gradio-UI%20Framework-orange?logo=gradio)](https://www.gradio.app/)
+[![License](https://img.shields.io/badge/license-Academic-lightgrey)](#)
+
+> Generative AI Capstone · University of San Diego / Fullstack Academy  
+> Developed by **Carllos Watts-Nogueira** · August–September 2025
 
 ---
 
 ##  Overview
 
-BikeEase has successfully implemented AI-powered solutions for demand forecasting, customer review analysis, and image classification. As they expand, they aim to automate marketing content creation using Large Language Models (LLMs) to attract more customers and ensure brand consistency.
+BikeEase has successfully implemented AI-powered solutions for demand forecasting, customer review analysis, and image classification. As part of their expansion, this project automates marketing content creation using Large Language Models (LLMs) to generate persuasive, brand-aligned advertisements.
 
-This project delivers a modular, LLM-powered system that generates persuasive bike rental advertisements based on user inputs like bike specifications, discount offers, and campaign themes.
-
----
-
-##  Project Statement
-
-> Develop a Generative AI-powered advertisement generation system using LLMs and LangChain to create compelling promotional content for BikeEase’s rental services.
+This capstone delivers a modular, LLM-powered system that generates structured bike rental ads based on user inputs like specifications, discounts, and campaign themes. It integrates Hugging Face models and LangChain for prompt orchestration, and deploys the app with a Gradio front-end on Hugging Face Spaces.
 
 ---
 
-##  Technologies & Skills
+##  Live Demo
 
-- Python
-- Hugging Face Transformers
-- LangChain
-- Gradio
-- Prompt Engineering
-- Modular Design
-- Generative AI
-- Text Generation
-- Deployment
-- Reproducibility
-
----
-
-##  Contents
-
-| File | Description |
-|------|-------------|
-| `GenAi_Inc_Unit6_Capstone.ipynb` | Full LangChain-powered ad generator with evaluation logic |
-| `genai_inc_unit6_capstone02.ipynb` | Alternate version with model selection and prompt tuning |
-| `app.py` | Hugging Face Spaces deployment script using TinyLlama and Gradio |
-| `README.md` | Project documentation and context |
-
----
-
-##  Features
-
-- Accepts user inputs for bike specs, discount, and theme
-- Generates structured ads with six branded sections:
-  `[Header]`, `[Subheader]`, `[Body]`, `[CTA]`, `[Hashtag]`, `[Footer]`
-- Supports multiple Hugging Face models (e.g., TinyLlama, FLAN-T5)
-- Evaluates ad quality based on completeness and relevance
-- Deployable locally or via Hugging Face Spaces
+🔗 [Try it on Hugging Face Spaces]([https://bit.ly/4fZUkSj](https://huggingface.co/spaces/cwattsnogueira/bikeease-ad-generator))
 
 ---
 
@@ -80,21 +48,41 @@ This project delivers a modular, LLM-powered system that generates persuasive bi
 
 ---
 
-##  Live Demo
+##  Technologies & Skills
 
-Try the deployed version on Hugging Face Spaces:  
-🔗 [https://huggingface.co/spaces/cwattsnogueira/bikeease-ad-generator](https://huggingface.co/spaces/cwattsnogueira/bikeease-ad-generator)
+- Python
+- Hugging Face Transformers
+- LangChain
+- Gradio
+- Prompt Engineering
+- Modular Design
+- Generative AI
+- Text Generation
+- Deployment
+- Reproducibility
+
+---
+
+##  Repository Structure
+
+| File | Description |
+|------|-------------|
+| `GenAi_Inc_Unit6_Capstone.ipynb` | LangChain-powered ad generator with evaluation logic |
+| `genai_inc_unit6_capstone02.ipynb` | Alternate version with model selection and prompt tuning |
+| `app.py` | Hugging Face Spaces deployment script using TinyLlama and Gradio |
+| `README.md` | Project documentation and context |
+| `requirements.txt` | (Optional) Python dependencies for local setup |
 
 ---
 
 ##  Author
 
 **Carllos Watts-Nogueira**  
-AI/ML Engineer | Capstone Project — September 2025  
-[LinkedIn](https://www.linkedin.com/in/cwattsnogueira) | [GitHub](https://github.com/cwattsnogueira)
+AI/ML Engineer · Capstone Project — September 2025  
+[LinkedIn](https://www.linkedin.com/in/cwattsnogueira) · [GitHub](https://github.com/cwattsnogueira)
 
 ---
 
-##  License
+##  License MIT
 
 This project is part of an academic capstone and is shared for educational purposes.
