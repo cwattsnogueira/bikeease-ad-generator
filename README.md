@@ -4,7 +4,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-integrated-green?logo=python)](https://www.langchain.com/)
 [![Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface)](https://huggingface.co/models)
 [![Gradio](https://img.shields.io/badge/Gradio-UI%20Framework-orange?logo=gradio)](https://www.gradio.app/)
-[![License](https://img.shields.io/badge/license-Academic-lightgrey)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 > Generative AI Capstone · University of San Diego / Fullstack Academy  
 > Developed by **Carllos Watts-Nogueira** · August–September 2025
@@ -21,7 +21,7 @@ This capstone delivers a modular, LLM-powered system that generates structured b
 
 ##  Live Demo
 
-🔗 [Try it on Hugging Face Spaces]([https://bit.ly/4fZUkSj](https://huggingface.co/spaces/cwattsnogueira/bikeease-ad-generator))
+🔗 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/cwattsnogueira/bikeease-ad-generator)
 
 ---
 
@@ -79,10 +79,10 @@ This capstone delivers a modular, LLM-powered system that generates structured b
 
 **Carllos Watts-Nogueira**  
 AI/ML Engineer · Capstone Project — September 2025  
-[LinkedIn](https://www.linkedin.com/in/cwattsnogueira) · [GitHub](https://github.com/cwattsnogueira)
 
 ---
 
 ##  License MIT
 
-This project is part of an academic capstone and is shared for educational purposes.
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this code with proper attribution.
